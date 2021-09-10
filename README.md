@@ -10,6 +10,7 @@ The final design should look like this:
 
 You will need to create a `.env` file and modify the two values to point to a channel on your workspace and the user token generated when you install your Slack app to your test workspace. It should look like this:
 CHANNEL_ID=Cxxxxxx
+
 API_TOKEN=xpop-dscdscds-sdvffdv-dfvdfvdf
 
 
