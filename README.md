@@ -1,4 +1,4 @@
-## End goal
+## Slack Status Tracker
 
 This app makes use of Slack's Events API. It listens for a user's Status Changes in the `user_change` event, and then posts a message containing their custom status to the #statuses channel in their Slack workspace.
 
